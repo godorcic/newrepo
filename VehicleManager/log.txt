@@ -1,0 +1,10 @@
+tra 03, 2023 3:51:18 PM VehicleManager.VehicleManagerImpl main
+WARNING: Invalid input. Please enter valid year as integer 4 digits (1900 - current year). 
+tra 03, 2023 3:51:39 PM VehicleManager.VehicleManagerImpl main
+WARNING: Invalid input. Please enter valid integer for number of doors. 
+tra 03, 2023 3:52:18 PM VehicleManager.VehicleManagerImpl main
+WARNING: Invalid input. Please enter valid year as integer 4 digits (1900 - current year). 
+tra 03, 2023 3:52:21 PM VehicleManager.VehicleManagerImpl main
+WARNING: Invalid input. Please enter valid year as integer 4 digits (1900 - current year). 
+tra 03, 2023 3:54:11 PM VehicleManager.VehicleManagerImpl main
+INFO: Programe End.
